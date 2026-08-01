@@ -1,8 +1,25 @@
 aid: robustai
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/robustai.png
 name: Robust.AI
-description: 'Robust.AI is a company surfaced as a portfolio company of playground-global and added to
-  the API Evangelist network as a stub for enrichment. Sector: automation. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Robust.AI is a robotics company building Carter, an AI-powered collaborative
+  mobile robot for warehouse fulfillment and manufacturing environments. Founded by
+  Rodney Brooks (co-founder of iRobot and Rethink Robotics) and colleagues, the company
+  designs human-centered autonomous material-handling robots that work alongside people
+  with minimal infrastructure change, no capital expenditure, and rapid ROI. Robust.AI
+  is backed by Playground Global and was recognized among Fast Company''s World''s Most
+  Innovative Companies of 2026. This is a physical-robotics company; as of this enrichment
+  pass it publishes no public developer portal, API, SDK, or GitHub surface.'
 url: https://raw.githubusercontent.com/api-evangelist/robustai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Automation
+- Robotics
+- Warehouse
+- Manufacturing
+- Logistics
+- Fulfillment
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +46,20 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/robustai-domain-security.yml
 - type: Website
   url: https://www.robust.ai/
+- type: Blog
+  url: https://www.robust.ai/blog
+- type: Support
+  url: https://www.robust.ai/contact-us
+- type: TermsOfService
+  url: https://www.robust.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.robust.ai/privacy-policy
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
