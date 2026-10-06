@@ -40,7 +40,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Automation
@@ -57,6 +57,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.robust.ai/news
+  type: Blog
+- url: https://www.robust.ai/news?format=rss
+  type: BlogRSS
 - type: DomainSecurity
   url: security/robustai-domain-security.yml
 - type: Website
