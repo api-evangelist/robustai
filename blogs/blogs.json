@@ -20,6 +20,13 @@
       "method": "feed"
     },
     {
+      "source": "https://www.robust.ai/news/atom.xml",
+      "feed_url": "https://www.robust.ai/news/atom.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.robust.ai/",
       "feed_url": "https://www.robust.ai/",
       "title": "",
@@ -27,6 +34,6 @@
       "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 20,
+  "fetched": "2026-10-17T14:53:57Z"
 }
