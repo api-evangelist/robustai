@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Robust.AI is a company surfaced as a portfolio company of playground-global and added to the API Evangelist network as a stub for enrichment. Sector: automation. This profile is a lead awaiting the enrichment pipeline.
+Robust.AI is a robotics company building Carter, an AI-powered collaborative mobile robot for warehouse fulfillment and manufacturing environments. Founded by Rodney Brooks (co-founder of iRobot and Rethink Robotics) and colleagues, the company designs human-centered autonomous material-handling robots that work alongside people with minimal infrastructure change, no capital expenditure, and rapid ROI. Robust.AI is backed by Playground Global and was recognized among Fast Company's World's Most Innovative Companies of 2026. This is a physical-robotics company; as of this enrichment pass it publishes no public developer portal, API, SDK, or GitHub surface.
 
-Backed by: playground-global — https://www.robust.ai/
+**Areas:** Company · Automation · Robotics · Warehouse · Manufacturing · Logistics · Fulfillment · Artificial Intelligence
+
+## Robust.AI on APIs.io
+
+Everything profiled for Robust.AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/robustai/](https://apis.io/providers/robustai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Robustai Domain Security](https://apis.io/security/robustai/robustai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.robust.ai/)
+- [Support](https://www.robust.ai/contact-us)
+- [Blog](https://www.robust.ai/news)
+- [Terms of service](https://www.robust.ai/terms-of-service)
+- [Privacy policy](https://www.robust.ai/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/robustai/](https://apis.io/providers/robustai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Robust.AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/robustai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
